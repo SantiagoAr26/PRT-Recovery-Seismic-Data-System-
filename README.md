@@ -42,5 +42,5 @@ Python Dependencies
 
 
 ## 2. Cite
-Santiago Arrais, Carolina Tripp-Barba , Nathaly Orozco Garzón,∗ , Pablo Barbecho , Xavier Calderón Hinojosa and Luis Urquiza-Aguiar. A Lightweight Python Recovery Tool for Waveform Gap Recovery in Seismic–Volcanic Monitoring Networks. (2026)
+Santiago Arrais, Paola Nazate Burgos, and Luis Urquiza Aguiar. A Lightweight Python Recovery Tool for Waveform Gap Recovery in Seismic–Volcanic Monitoring Networks. (2026)
 
