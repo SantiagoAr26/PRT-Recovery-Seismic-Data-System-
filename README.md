@@ -45,7 +45,7 @@ Python Dependencies
 Arrais, S., Nazate-Burgos, P., Garzón, N. O., Caraguay, Á. L. V., & Urquiza-Aguiar, L. (2026). A Lightweight Python Recovery Tool for Waveform Gap Recovery in Seismic–Volcanic Monitoring Networks. Technologies, 14(4), 211. https://doi.org/10.3390/technologies14040211.
 
 ```bibtex
-@Article{technologies14040211,
+@Article{Arrais2026,
 AUTHOR = {Arrais, Santiago and Nazate-Burgos, Paola and Garzón, Nathaly Orozco and Caraguay, Ángel Leonardo Valdivieso and Urquiza-Aguiar, Luis},
 TITLE = {A Lightweight Python Recovery Tool for Waveform Gap Recovery in Seismic–Volcanic Monitoring Networks},
 JOURNAL = {Technologies},
